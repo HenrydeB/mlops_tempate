@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-05-17T00:23:41.857684",
+    "startedAt": "2024-05-17T00:23:40.650242",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\henry\\OneDrive\\Desktop\\MLOps\\mlops_test_cookiecutter\\models\\MNIST_working.py",
+    "codePathLocal": "MNIST_working.py",
+    "codePath": "models\\MNIST_working.py",
+    "git": {
+        "remote": "git@github.com:HenrydeB/mlops_tempate.git",
+        "commit": "a33f412852aad6c2370486d474ad670af8c65488"
+    },
+    "email": "henrycd95@hotmail.com",
+    "root": "C:/Users/henry/OneDrive/Desktop/MLOps/mlops_test_cookiecutter",
+    "host": "DESKTOP-006G4SL",
+    "username": "henry",
+    "executable": "C:\\Users\\henry\\anaconda3\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3192.0,
+        "min": 0.0,
+        "max": 3192.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3192.0,
+            "min": 0.0,
+            "max": 3192.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 930.9101524353027,
+            "used": 255.67473983764648
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1060 3GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1060 3GB",
+            "memory_total": 3221225472
+        }
+    ],
+    "memory": {
+        "total": 15.918418884277344
+    }
+}
