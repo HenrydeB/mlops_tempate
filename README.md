@@ -69,5 +69,3 @@ make data <- runs the make_dataset.py file
 make clean <- cleans the __pycache__ files
 make requirements <- installs everything in the requirements.txt file
 ```
-
-
